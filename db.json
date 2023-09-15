@@ -1,0 +1,28 @@
+{
+  "serve_bounce": [
+    {
+      "set": 1,
+      "game": 2,
+      "point": 1,
+      "serve": 1,
+      "ace": 0,
+      "point_won": 0,
+      "returned": 1,
+      "ball_bounce_x": 5.9,
+      "ball_bounce_y": 1.188
+    }
+  ],
+  "return_hit": [
+    {
+      "set": 1,
+      "game": 1,
+      "point": 1,
+      "serve": 2,
+      "player_id": "PL56",
+      "point_won": 0,
+      "ball_hit_x": 0.8,
+      "ball_hit_y": 4.244,
+      "ball_hit_z": 0.492
+    }
+  ]
+}
